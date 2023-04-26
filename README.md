@@ -5,4 +5,4 @@ The top 3 classifiers are Logistic Regression, Decision Trees and Naive Bayes. O
 
 The datasets used for this project are also available.
 
-Metrics.xlsx contains the performance metrics for eac classifier in a tabular format.
+Metrics.xlsx contains the performance metrics for each classifier in a tabular format.
